@@ -2,7 +2,7 @@
 
 This is a web application to browse and install applications present in Flatpak repositories. It began as a personal proof of concept but its used in https://flathub.org since April 2018.
 
-The web app obtains data calling a remote REST API implemented in [linux-store-backend](https://github.com/jgarciao/linux-store-backend) 
+The web app obtains data calling a remote REST API implemented in [backend](https://github.com/flathub/backend) 
 
 There is a [development server](http://45.55.104.129) where we test new stuff.
 
